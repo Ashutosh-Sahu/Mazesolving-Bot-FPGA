@@ -43,6 +43,8 @@ The main controller is implemented as the t2c_maze_explorer Verilog module. The 
 
 > <img width="900" height="1600" alt="side_view" src="https://github.com/user-attachments/assets/815a98e1-bccc-426f-bbf3-0987e0625088" />
 
+<img width="983" height="792" alt="WhatsApp Image 2026-09-23 at 15 54 43" src="https://github.com/user-attachments/assets/b763204f-13d9-4115-afdb-0aa9f871a3c6" />
+
 
 ### 📹 Demo
 
